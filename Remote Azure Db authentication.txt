@@ -1,0 +1,5 @@
+ServerName= tensaedatabase.database.windows.net
+Authentication= SQL Server Authentication
+Login=tensaeg
+Password=@Jerry304870
+DB Name=NorWind
